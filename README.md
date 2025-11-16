@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me mail me at ab60789170@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: That i am a programmer and like poetry
+
 
 <!---
 AbdulAhad-stack/AbdulAhad-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
